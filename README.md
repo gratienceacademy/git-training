@@ -16,4 +16,13 @@ Fruit Names:
 * Mango
 * Orange
 
+Vegetable Names:
+1. Brinjal
+2. Onion
+3. Radish
+4. Ladies Finger
+5. Betroot
+6. Carrot
+7. Cucumber
+
 ###### Gratience Academy | 2020
