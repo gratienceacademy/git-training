@@ -13,5 +13,6 @@ Fruit Names:
 * Pineapple
 * Papaya
 * Kiwi
+* Mango
 
 ###### Gratience Academy | 2020
