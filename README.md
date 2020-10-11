@@ -7,4 +7,11 @@ Here is the checklist that we are covering today,
 - [ ] Git Branch using GitHub Desktop
 - [ ] Using Git via VS Code
 
+Fruit Names:
+* Apple
+* Tomato
+* Pineapple
+* Papaya
+* Kiwi
+
 ###### Gratience Academy | 2020
