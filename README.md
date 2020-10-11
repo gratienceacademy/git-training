@@ -25,4 +25,13 @@ Vegetable Names:
 6. Carrot
 7. Cucumber
 
+Chocolates:
+- Dairy Milk
+- Kit Kat
+- Farrero
+- 5 Star
+- Munch
+- Perk
+- Kaccha Mango Bite
+
 ###### Gratience Academy | 2020
